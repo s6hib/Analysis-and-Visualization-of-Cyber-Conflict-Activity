@@ -65,6 +65,7 @@ breach_types = data['Type of Breach'].value_counts()
 # Display the number of each type of breach
 breach_types
 ```
+![image](https://github.com/s6hib/Analysis-and-Visualization-of-Cyber-Conflict-Activity/assets/123601618/954594f4-5ddc-424e-93f9-a00a923cfd9c)
 
 ```python
 # Create a bar chart of the most common types of breaches
